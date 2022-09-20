@@ -1,1 +1,11 @@
 this is demo code for java course
+
+we are working on git functionality
+
+
+topic covered
+oops
+collection
+
+
+need to update
